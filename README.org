@@ -1,2 +1,4 @@
 * g_serial
 Some serial learning notes which may be usefull in embedded system debugging.
+** learning notes
+- [[https://blog.csdn.net/grey_csdn/article/details/125627677][1291_Xshell日志中增加时间戳的功能]]
