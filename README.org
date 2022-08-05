@@ -7,3 +7,4 @@ Some serial learning notes which may be usefull in embedded system debugging.
 - [[https://mp.csdn.net/mp_blog/creation/success/126063614][1315_使用LOOPBACK模拟模式pyserial安装是否成功的测试]]
 - [[https://mp.csdn.net/mp_blog/creation/success/126067074][1316_使用python读取串口数据并显示]]
 - [[https://mp.csdn.net/mp_blog/creation/success/126087231][1317_使用pyserial通过python读取串口数据显示的同时记录log文件]]
+- [[https://blog.csdn.net/grey_csdn/article/details/126186624][1321_一份BootLoader xmodem部分的协议分析]]
